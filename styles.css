@@ -265,3 +265,14 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+
+/* footer */
+footer {
+  text-align: center;
+}
+
+footer .resume__block {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
